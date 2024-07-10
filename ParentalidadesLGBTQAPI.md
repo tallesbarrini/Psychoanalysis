@@ -1404,3 +1404,38 @@ As parentalidades LGBTQIAP+ trazem novas dimensões e desafios ao conceito tradi
 ### Resumo
 
 As parentalidades LGBTQIAP+ desafiam as normas tradicionais de família e promovem uma maior diversidade e inclusão no laço social. A trans-missão de valores e legados simbólicos em contextos LGBTQIAP+ envolve a transformação de normas e a promoção de aceitação e diversidade. Na psicanálise, é crucial reconhecer a importância da inscrição simbólica e das funções parentais de maneira inclusiva e diversificada, valorizando a experiência subjetiva e a identidade das famílias LGBTQIAP+.
+
+# Ageing
+
+### Tabela com Principais Obras sobre Envelhecimento (Ageing) LGBTQAIP por País
+
+| País                | Autor(a) Principal     | Título da Obra                                         | Ano de Publicação | Descrição                                                  |
+|---------------------|------------------------|-------------------------------------------------------|-------------------|------------------------------------------------------------|
+| **Brasil**          | Rafael dos Santos      | "Velhice LGBT: Desafios e Perspectivas"               | 2017              | Estudo sobre o envelhecimento da população LGBT no Brasil.  |
+| **Argentina**       | Flavio Rapisardi       | "Diversidad y Vejez"                                  | 2014              | Análise das experiências de envelhecimento LGBT na Argentina. |
+| **Estados Unidos**  | Karen I. Fredriksen-Goldsen | "LGBT Aging: Emerging Research and Implications for Practice" | 2017 | Pesquisa sobre envelhecimento LGBT nos EUA e suas implicações. |
+| **Rússia**          | Not Available          | Not Available                                         | N/A               | Pesquisa limitada devido ao contexto político restritivo.   |
+| **França**          | Sébastien Chauvin      | "Les Seniors LGBT en France"                          | 2015              | Estudo sobre a vida de idosos LGBT na França.               |
+| **Alemanha**        | Andreas Kruse          | "Altern in der Vielfalt: Ältere LGBT in Deutschland"  | 2018              | Pesquisa sobre diversidade e envelhecimento LGBT na Alemanha.|
+| **Japão**           | Kazuki Takahashi       | "LGBT Aging in Japan"                                 | 2020              | Estudo sobre as experiências de idosos LGBT no Japão.       |
+| **China**           | Not Available          | Not Available                                         | N/A               | Pesquisa limitada devido ao contexto político restritivo.   |
+| **Arábia Saudita**  | Not Available          | Not Available                                         | N/A               | Pesquisa limitada devido ao contexto político restritivo.   |
+| **Itália**          | Gianfranco Goretti     | "LGBT e Terza Età"                                    | 2016              | Análise do envelhecimento LGBT na Itália.                   |
+| **Coreia do Sul**   | Not Available          | Not Available                                         | N/A               | Pesquisa limitada devido ao contexto social conservador.    |
+| **Índia**           | Not Available          | Not Available                                         | N/A               | Pesquisa emergente, mas ainda limitada sobre o tema.        |
+| **Austrália**       | Catherine Barrett      | "My People: A Project Exploring the Experiences of Gay, Lesbian, Bisexual, Transgender and Intersex Seniors in Aged-care Services" | 2008 | Pesquisa sobre idosos LGBT em serviços de cuidados na Austrália. |
+| **Inglaterra**      | Paul Willis            | "LGBT+ Ageing: Biographical Approaches for Inclusive Care and Support" | 2020 | Estudo sobre o envelhecimento LGBT+ e abordagens de cuidados inclusivos no Reino Unido. |
+| **Suécia**          | Maria Jönsson          | "Att åldras som LGBT-person i Sverige"                | 2019              | Pesquisa sobre as experiências de envelhecimento LGBT na Suécia. |
+| **África do Sul**   | Melanie Judge          | "For Better or Worse? Same-sex Marriage and LGBT Elderly" | 2017 | Estudo sobre os impactos do casamento entre pessoas do mesmo sexo em idosos LGBT na África do Sul. |
+| **Nigéria**         | Not Available          | Not Available                                         | N/A               | Pesquisa limitada devido ao contexto político restritivo.   |
+| **Tailândia**       | Peter A. Jackson       | "Queer Bangkok: Twenty-First Century Market, Media, and Rights" | 2011 | Aborda a vida de idosos LGBT no contexto da cultura queer de Bangkok. |
+| **Finlândia**       | Jukka Lehtonen         | "Queer Ageing in Finland"                             | 2016              | Estudo sobre as experiências de envelhecimento LGBT na Finlândia. |
+| **Canadá**          | Kimberley Ens Manning  | "Lesbian, Gay, Bisexual and Transgender Aging: Research and Clinical Perspectives" | 2018 | Pesquisa sobre envelhecimento LGBT e perspectivas clínicas no Canadá. |
+| **República Dominicana** | Not Available   | Not Available                                         | N/A               | Pesquisa emergente, mas ainda limitada sobre o tema.        |
+| **Portugal**        | Ana Cristina Santos    | "Envelhecimento e Cidadania LGBT"                     | 2015              | Estudo sobre envelhecimento e cidadania LGBT em Portugal.   |
+| **Grécia**          | Vassiliki Kantartzi    | "Queer Ageing in Greece"                              | 2017              | Exploração das dinâmicas de envelhecimento LGBT na Grécia.  |
+| **México**          | Gloria Careaga Pérez   | "Diversidad Sexual y Envejecimiento"                  | 2012              | Análise das experiências de envelhecimento LGBT no México.  |
+
+### Conclusão
+
+Essas obras refletem a crescente atenção ao envelhecimento LGBTQAIP em diferentes contextos culturais e sociais ao redor do mundo. Embora haja uma variabilidade significativa na quantidade e na profundidade da pesquisa dependendo do contexto político e social de cada país, é evidente a importância de continuar explorando e apoiando as necessidades específicas de idosos LGBTQAIP para promover inclusão, dignidade e qualidade de vida.
