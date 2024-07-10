@@ -1,0 +1,1 @@
+/home/talles/Documents/MDs/Psicanálise/Cursos/ConceitosLacanianos.md
