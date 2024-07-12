@@ -1,4 +1,33 @@
+# Support Us
+
 [![" 🤝 Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tallesberrs)
+[Estúdio de Psicanálise, Arte e Cinema](https://docs.google.com/presentation/d/1tVhZKi6ufmf8tDZoy2uanwNu-rk55qBWa79q-A8g0x8/edit?usp=sharing)
+
+**Proposta de Financiamento Contínuo para a Construção do Estúdio de Psicanálise, Arte e Cinema Talles Barrini**
+
+**Introdução**
+
+O Estúdio de Psicanálise, Arte e Cinema Talles Barrini surge com a missão de integrar três campos do conhecimento e da prática: a psicanálise, a arte e o cinema. Este projeto inovador visa criar um espaço único onde a interseção dessas disciplinas possa promover um ambiente de aprendizado, criatividade e transformação pessoal e coletiva.
+
+**Objetivo**
+
+O objetivo deste pedido de financiamento contínuo é garantir a cobertura dos custos mensais de infraestrutura do projeto, incluindo aluguel, materiais e logística. A segurança financeira proporcionada por este apoio permitirá que todos os envolvidos possam se dedicar integralmente ao desenvolvimento do estúdio e de suas atividades.
+
+**Justificativa**
+
+A construção do Estúdio de Psicanálise, Arte e Cinema Talles Barrini é um empreendimento ambicioso e de longo prazo. A integração entre psicanálise, arte e cinema não só enriquecerá a formação dos alunos, mas também criará um espaço para a produção de conhecimento inovador, incentivando a exploração de novas linguagens e formas de expressão. Este ambiente colaborativo proporcionará oportunidades únicas de desenvolvimento pessoal e profissional para todos os participantes.
+
+**Impacto do Financiamento**
+
+O financiamento contínuo proporcionará diversos benefícios diretos e indiretos:
+
+1. **Dedicação Integral:** Com a segurança financeira, os participantes poderão se dedicar exclusivamente às suas atividades acadêmicas e criativas, elevando a qualidade do trabalho desenvolvido.
+
+2. **Ambiente Colaborativo:** A estabilidade proporcionada pelo financiamento permitirá a criação de um ambiente colaborativo e estimulante, onde ideias inovadoras poderão florescer.
+
+3. **Formação de Excelência:** O estúdio poderá atrair e reter talentos, tanto entre alunos quanto entre professores e colaboradores, consolidando-se como uma instituição de referência na área.
+
+4. **Contribuição Social:** O estúdio terá um papel significativo na disseminação do conhecimento e na promoção da cultura, beneficiando não só os participantes diretos, mas também a comunidade em geral através de eventos, exposições e produções cinematográficas.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
@@ -11,7 +40,7 @@
 - [Pesquisa](#pesquisa)
 - [Cursos teóricos](#cursos-teóricos)
 - [Ebooks e outros materiais](#ebooks-e-outros-materiais)
-- [Escola](#escola)
+- [Estúdio](#escola)
 - [Links](#links)
 - [Sala Online](#sala-online)
 - [Grupos e Canais](#grupos-e-canais)
@@ -73,9 +102,9 @@
 
 <!-- TOC --><a name="ebooks-e-outros-materiais"></a>
 
-# Escola
+# Estúdio
 
-<span style="color:#FDFFE2">Apresentação \- Escola de Cinema\, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_ </span>
+<span style="color:#FDFFE2">Apresentação \- Estúdio de Cinema\, Arte e Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing](https://docs.google.com/presentation/d/1MGYJgJPWMmoz7mkZWdFOs3cxNQC9fnZreEX7RP_o5Mw/edit?usp=sharing)_ </span>
 
 <span style="color:#FDFFE2">Percurso em Psicanálise: </span> <span style="color:#FDFFE2"> _[https://docs\.google\.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing](https://docs.google.com/presentation/d/1DU01iGXqGQFNwVJtnK6xTcUxQHRqxIhKlukwAxIsgTc/edit?usp=sharing)_ </span>
 
