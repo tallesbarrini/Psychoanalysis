@@ -4,6 +4,14 @@
 
 [Estúdio de Psicanálise, Arte e Cinema](https://docs.google.com/presentation/d/1tVhZKi6ufmf8tDZoy2uanwNu-rk55qBWa79q-A8g0x8/edit?usp=sharing)
 
+[Kickante](https://www.kickante.com.br/crowdfunding/escola-de-psicanalise-talles-barrini)
+
+[Apoia-se](https://apoia.se/tallesbarrini)
+
+[Amazon WishList](https://www.amazon.com.br/hz/wishlist/ls/3UUK9DJ1OZ20S?ref_=wl_share)
+
+[Linktree](https://linktr.ee/tallesbarrini)
+
 **Proposta de Financiamento Contínuo para a Construção do Estúdio de Psicanálise, Arte e Cinema Talles Barrini**
 
 **Introdução**
