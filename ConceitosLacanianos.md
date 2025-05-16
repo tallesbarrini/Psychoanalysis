@@ -1,3 +1,25 @@
+---
+title:
+  - type: main
+    text: Lacanian Concepts
+  - type: subtitle
+    text: Psychoanalysis
+creator:
+  - role: author
+    text: Zaya Barrini
+  - role: editor
+    text: Zaya Barrini
+language: ar
+cover-image: /home/zaya/Downloads/Zayas/zayaweb/static/css/img/Bing/bing68.png
+identifier:
+  - scheme: DOI
+    text: doi:10.234234.234/33
+publisher: My Press
+rights: © 2007 John Smith, CC BY-NC
+ibooks:
+  version: 1.3.4
+...
+
 # mais de gozar
 
 O termo "mais-de-gozar" é um conceito introduzido por Jacques Lacan, um psicanalista francês conhecido por seu trabalho na psicanálise lacaniana ou lacanismo. Esse conceito é central em sua teoria e está relacionado à ideia de excesso e satisfação na psicanálise lacaniana.
